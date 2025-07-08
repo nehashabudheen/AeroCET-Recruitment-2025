@@ -12,8 +12,8 @@ const App: React.FC = () => {
         <h1>Welcome to <span className="highlight">AeroCET</span> Recruitment 2025</h1>
         <p>Official Aeromodelling Club of College of Engineering, Trivandrum</p>
         <div className="button-group">
-          <button onClick={() => handleTask('Task 1')}>Task 1</button>
-          <button onClick={() => handleTask('Task 2')}>Task 2</button>
+          <button onClick={() => handleTask('Task 1')}>Task 1 [Gallery]</button>
+          <button onClick={() => handleTask('Task 2')}>Task 2 [Weather]</button>
         </div>
       </div>
     </div>
